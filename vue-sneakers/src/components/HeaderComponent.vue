@@ -8,7 +8,7 @@
       <img src=" /logo.png" alt="logo" class="w-10">
 
       <div>
-        <h2 class="text-xl font-bold uppercase">Vue skeankers</h2>
+        <h2 class="text-xl font-bold uppercase">Vue sneakers </h2>
         <p class="text-slate-400">Магазин лучших кроссовок</p>
       </div>
     </div>

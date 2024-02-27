@@ -10,7 +10,6 @@ const onClickAdd = () => {
 
 <template>
   <div class="p-10">
-    <h2 class="text-3xl font-bold">Все кроссовки</h2>
 
     <div class="grid grid-cols-2 gap-5">
       <card-component
